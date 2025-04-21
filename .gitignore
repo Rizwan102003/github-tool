@@ -1,0 +1,20 @@
+
+---
+
+### 📁 `.gitignore`
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+.env
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
