@@ -21,8 +21,8 @@ It uses:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/github-api-integration-tool.git
-   cd github-api-integration-tool
+   git clone https://github.com/Rizwan102003/github-tool.git
+   cd github-tool
    ```
 
 2. Create a virtual environment (optional but recommended):
